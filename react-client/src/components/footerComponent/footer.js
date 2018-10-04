@@ -5,7 +5,7 @@ class Footer extends Component {
     return (
       <footer>
         <div>
-          Footer component
+         Hello My name is jake broom
         </div>
       </footer>
     )
